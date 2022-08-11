@@ -1,1 +1,1 @@
-# Leetcode---MySQL-Problems
+# Leetcode MySQL-Problems
