@@ -1,5 +1,6 @@
 # Leetcode Problem 177 : https://leetcode.com/problems/nth-highest-salary/
-# My Leetcode Solution link : https://leetcode.com/problems/nth-highest-salary/discuss/2419363/3-different-solutions-(IF-CASES)-%2B-subselect-Limit%2BOffset
+# My Leetcode Solution link : ''' https://leetcode.com/problems/nth-highest-salary/discuss/2419363/3-different-solutions-(IF-CASES)-%2B-subselect-Limit%2BOffset '''
+
 # IF + Subselect =>
 
 CREATE FUNCTION getNthHighestSalary(N INT) RETURNS INT
